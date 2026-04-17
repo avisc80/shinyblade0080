@@ -1,8 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/"
+    "/content/shinyblade0080-site/:/",
+    "/content/shinyblade0080-site/configuration:/.helix/config.json",
+    "/content/shinyblade0080-site/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/shinyblade0080-site/"
   ]
 }
